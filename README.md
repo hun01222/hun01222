@@ -7,10 +7,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" 
-        src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png](https://mshr-h.gallerycdn.vsassets.io/extensions/mshr-h/veriloghdl/1.13.2/1707020468811/Microsoft.VisualStudio.Services.Icons.Default)" 
-        style="max-width: 100%;">
-     </code>
 
 
 <!--
