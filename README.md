@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhun01222&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[Jihun_Park_CV](CV/Jihun_Park_CV.pdf)
+[Jihun_Park_CV](hun01222/CV/Jihun_Park_CV.pdf)
 
 **Languages and Tools**  
 
