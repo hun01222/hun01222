@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[CV](CV_Jihun_Park.pdf)
+[CV](CV.pdf)
 
 **Languages and Tools**  
 
